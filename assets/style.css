@@ -85,7 +85,8 @@ footer {
 
 /*Hero style*/
 .hero {
-  background: linear-gradient(45deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)), url("img/tent.jpg") center no-repeat;
+  background: linear-gradient(45deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)),
+    url("img/tent.jpg") center no-repeat;
   background-size: cover;
   height: 100vh;
   flex-direction: column;
@@ -144,6 +145,7 @@ footer {
 
 .subgrid-a-4 {
   background: #eebd5d;
+  color: #222;
 }
 
 .subgrid-b-1 {
@@ -152,6 +154,7 @@ footer {
 
 .subgrid-b-4 {
   background: #cf91f8;
+  color: #222;
 }
 
 /*testimonials*/
@@ -360,9 +363,9 @@ input[type="submit"]:active {
 
 .container button {
   border-radius: 20px;
-  border: 1px solid #FF4B2B;
-  background-color: #FF4B2B;
-  color: #FFFFFF;
+  border: 1px solid #ff4b2b;
+  background-color: #ff4b2b;
+  color: #ffffff;
   font-size: 12px;
   font-weight: bold;
   padding: 12px 45px;
@@ -382,11 +385,11 @@ input[type="submit"]:active {
 
 .container button.ghost {
   background-color: transparent;
-  border-color: #FFFFFF;
+  border-color: #ffffff;
 }
 
 .container form {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -436,7 +439,6 @@ input[type="submit"]:active {
 }
 
 @keyframes show {
-
   0%,
   49.99% {
     opacity: 0;
@@ -466,13 +468,13 @@ input[type="submit"]:active {
 }
 
 .overlay {
-  background: #FF416C;
-  background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);
-  background: linear-gradient(to right, #FF4B2B, #FF416C);
+  background: #ff416c;
+  background: -webkit-linear-gradient(to right, #ff4b2b, #ff416c);
+  background: linear-gradient(to right, #ff4b2b, #ff416c);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0 0;
-  color: #FFFFFF;
+  color: #ffffff;
   position: relative;
   left: -100%;
   height: 100%;
@@ -522,7 +524,7 @@ input[type="submit"]:active {
 }
 
 .social-container a {
-  border: 1px solid #DDDDDD;
+  border: 1px solid #dddddd;
   border-radius: 50%;
   display: inline-flex;
   justify-content: center;
