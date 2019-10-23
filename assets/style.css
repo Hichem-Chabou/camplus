@@ -439,6 +439,7 @@ input[type="submit"]:active {
 }
 
 @keyframes show {
+
   0%,
   49.99% {
     opacity: 0;
@@ -532,6 +533,39 @@ input[type="submit"]:active {
   margin: 0 5px;
   height: 40px;
   width: 40px;
+}
+
+/*About page*/
+.about-container {
+  background: linear-gradient(60deg, rgb(39, 228, 241), rgb(40, 143, 240));
+}
+
+.about {
+  text-align: center;
+}
+
+/*Privacy Policy*/
+.privacy {
+  background: #333;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.privacy-policy {
+  margin: 5vh 0 0 0;
+  width: 70vw;
+}
+
+.privacy h2 {
+  position: relative;
+  font-size: 0.9em;
+  margin: 6vh 0 0 0;
+}
+
+.privacy p {
+  font-size: 0.75em;
 }
 
 @media screen and (max-width: 800px) {
