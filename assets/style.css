@@ -1,12 +1,12 @@
 /*Font Style*/
 @font-face {
   font-family: "droid-ita";
-  src: url("font/droid-ita.ttf");
+  src: url("font/droid-ita.woff");
 }
 
 @font-face {
   font-family: "droid";
-  src: url("font/droid-reg.ttf");
+  src: url("font/droid-reg.woff");
 }
 
 /*General style*/
