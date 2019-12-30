@@ -84,7 +84,7 @@ footer {
   margin: 0 10px 0 40px;
 }
 
-a[href="signup"] {
+.nav-items li:nth-child(4) a {
   padding: 4px 10px;
   border: #fbfbfb 1px solid;
   border-radius: 20px;
