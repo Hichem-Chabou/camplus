@@ -84,6 +84,23 @@ footer {
   margin: 0 10px 0 40px;
 }
 
+a[href="signup"] {
+  padding: 4px 10px;
+  border: #fbfbfb 1px solid;
+  border-radius: 20px;
+  transition: 200ms;
+}
+
+a[href="signup"]:hover {
+  background: #14c0d6;
+}
+
+@media (hover: none) {
+  a[href="signup"] {
+    background: #14c0d6;
+  }
+}
+
 /*Hero style*/
 .hero {
   background: linear-gradient(45deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)),
@@ -576,7 +593,7 @@ input[type="submit"]:active {
   }
 }
 
-@media screen and (max-width: 682px) {
+@media screen and (max-width: 699px) {
   .navbar {
     justify-content: center;
     background-color: #253545;
@@ -603,7 +620,7 @@ input[type="submit"]:active {
   }
 
   .nav-items li {
-    margin: 15px 0 0 0;
+    margin: 15px 0 0 10px;
   }
 
   .nav-items li a {
