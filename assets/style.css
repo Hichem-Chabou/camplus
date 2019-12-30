@@ -612,6 +612,7 @@ input[type="submit"]:active {
     right: 20px;
     cursor: pointer;
     z-index: 99;
+    font-size: 1.8em;
   }
 
   .nav-items {
