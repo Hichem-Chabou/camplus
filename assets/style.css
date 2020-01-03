@@ -80,11 +80,11 @@ footer {
   margin: 0 10px 0 20px;
 }
 
-.nav-items li:nth-child(4) {
+.nav-items li:nth-child(3) {
   margin: 0 10px 0 40px;
 }
 
-.nav-items li:nth-child(4) a {
+.nav-items li:nth-child(3) a {
   padding: 4px 10px;
   border: #fbfbfb 1px solid;
   border-radius: 20px;
@@ -554,15 +554,6 @@ input[type="submit"]:active {
   width: 40px;
 }
 
-/*About page*/
-.about-container {
-  background: linear-gradient(60deg, rgb(39, 228, 241), rgb(40, 143, 240));
-}
-
-.about {
-  text-align: center;
-}
-
 /*Privacy Policy*/
 .privacy {
   background: #333;
@@ -628,7 +619,7 @@ input[type="submit"]:active {
     color: #fbfbfb;
   }
 
-  .nav-items li:nth-child(4) {
+  .nav-items li:nth-child(3) {
     margin: 10px 20px 10px 0;
   }
 
