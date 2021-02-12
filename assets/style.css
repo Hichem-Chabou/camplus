@@ -333,7 +333,7 @@ input[type="submit"]:active {
   .contact {
     left: 14vw;
   }
-
+}
 /*Login and registration page*/
 .main-container {
   background: linear-gradient(45deg, #2fcae6, #23cf9c);
