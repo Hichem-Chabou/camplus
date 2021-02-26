@@ -13,3 +13,6 @@ Here's a live demo: https://camplus.netlify.com/
 ![SignIn](https://github.com/Hichem-Chabou/camplus/blob/master/assets/img/Camplus-signin.png)  
 ### SignUp  
 ![SignUp](https://github.com/Hichem-Chabou/camplus/blob/master/assets/img/Camplus-signup.png)  
+
+## License :scroll:  
+[GNU v3.0](https://github.com/Hichem-Chabou/camplus/blob/master/LICENSE)
