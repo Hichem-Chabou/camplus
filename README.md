@@ -14,5 +14,8 @@ Here's a live demo: https://camplus.netlify.com/
 ### SignUp  
 ![SignUp](https://github.com/Hichem-Chabou/camplus/blob/master/assets/img/Camplus-signup.png)  
 
+## To-Do  
+* Improve accessibility  
+
 ## License :scroll:  
 [GNU v3.0](https://github.com/Hichem-Chabou/camplus/blob/master/LICENSE)
