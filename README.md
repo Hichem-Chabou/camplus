@@ -16,6 +16,7 @@ Here's a live demo: https://camplus.netlify.com/
 
 ## To-Do :memo:  
 * Improve accessibility  
+* Refactor code  
 
 ## License :scroll:  
 [GNU v3.0](https://github.com/Hichem-Chabou/camplus/blob/master/LICENSE)
